@@ -27,12 +27,14 @@ of the Gamma distribution), by a few points. Since the AIC test penalizes a mode
 its number of parameters, it assigns a slightly better score to the exponential distribution, due to the
 presence of just one parameter as opposed to two.
 
+![GammaResults](Results/gamma.jpeg)
+
 #### The Team
-Ankit Sonthalia  
-Aniruddha Jayant Karajgi   
-Jatin Singh
-Meet Kanani  
-Nayan Khanna  
-Rahul Jha
-Rohit K Bharadwaj   
-Subham Kumar Dash  
+Ankit Sonthalia   
+Aniruddha Jayant Karajgi    
+Jatin Singh  
+Meet Kanani   
+Nayan Khanna   
+Rahul Jha    
+Rohit K Bharadwaj    
+Subham Kumar Dash   
