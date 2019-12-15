@@ -38,3 +38,5 @@ Nayan Khanna
 Rahul Jha    
 Rohit K Bharadwaj    
 Subham Kumar Dash   
+
+The final report can be found [here](./Earthquake_Forecasting.pdf).
