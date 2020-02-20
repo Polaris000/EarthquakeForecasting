@@ -7,6 +7,8 @@ evaluated these models using two popular non-parametric tests. The gamma distrib
 found to be the best fit among the applied models, with the shape parameter equal 0.8906 and a
 scale parameter equal to 635.324.
 
+![](./assets/map.png)
+
 #### Results
 After completion of our analysis, the following significant results were noted:
 - The AIC test established the exponential distribution (β = 565.93) as the best fit model for
