@@ -32,8 +32,8 @@ presence of just one parameter as opposed to two.
 ![GammaResults](Results/gamma.jpeg)
 
 #### The Team
-Ankit Sonthalia   
-Aniruddha Jayant Karajgi    
+Aniruddha Jayant Karajgi   
+Ankit Sonthalia  
 Jatin Singh  
 Meet Kanani   
 Nayan Khanna   
